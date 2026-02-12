@@ -1,0 +1,9 @@
+
+{
+  "name": "Volna Super-App",
+  "description": "A high-performance Russian super-app concept combining Telegram-style messaging with YouTube-style video streaming, powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
